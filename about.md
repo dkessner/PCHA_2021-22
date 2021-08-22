@@ -6,17 +6,9 @@ layout: info
 
 ## Project 
 
-This is a Jekyll project template for class/workshop notes, examples, and
-interactive demos.
+Project page: [https://github.com/dkessner/PCHA](https://github.com/dkessner/PCHA)
 
-Features:
-- LaTeX mathematical equations inside Markdown
-- p5 sketch embedding, with helper functions:
-    - mouse -> arrow key event delegation
-    - windowResized() event handling
-
-Project page:   
-[https://github.com/dkessner/class_notes](https://github.com/dkessner/class_notes)
+Template: [https://github.com/dkessner/class_notes](https://github.com/dkessner/class_notes)
 
 ## License
 
