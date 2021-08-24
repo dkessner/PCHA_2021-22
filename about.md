@@ -4,6 +4,14 @@ permalink: /about/
 layout: info
 ---
 
+## PCHA
+
+This is the website for Pre-Calculus Honors Acclerated (PCHA) 2021-22, at 
+[Marlborough School](https://www.marlborough.org/) in Los Angeles, taught
+by Dr. Darren Kessner, Co-Head of the 
+[STEM+ Program](http://stem.marlborough.org/).
+
+
 ## Project 
 
 Project page: [https://github.com/dkessner/PCHA](https://github.com/dkessner/PCHA)

@@ -4,7 +4,8 @@ layout: info
 geometry: margin=1in
 ---
 
-__Pre-Calculus Honors Accelerated (PCHA) 2021-22__  
+__Pre-Calculus Honors Accelerated (PCHA)__  
+__2021-22__   
 __Dr. Kessner__  
 
 
@@ -15,7 +16,7 @@ __Dr. Kessner__
 
 ### Mathletes
 
-As a PCHA student you are automatically a Mathlete, which means: 
+As a PCHA student you are a mathlete, which means: 
 
 1. You love math!
 2. You will participate in the California Math League (CML), which will
@@ -48,6 +49,6 @@ hesitate to contact me if you have any questions at all.
 
 The benefit of moving so quickly in this course is that we will have the
 opportunity to think about a large variety of interesting ideas in mathematics.
-In addition, we will do some coding in the Python programming language to
-explore some topics and have some fun with the ideas we discuss in class.
+In addition, we will do some coding in Python and/or Javascript to explore some
+topics and have some fun with the ideas we discuss in class.
 
