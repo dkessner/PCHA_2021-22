@@ -227,7 +227,7 @@ geometry: margin=1in
     - alternate definition (x->a)
 
 * 8.4 Differentiation Rules (FDWK 3.3, OSC1 3.2-3.3)
-    - d(const) = 0
+    - $\frac{d}{dx}(const) = 0$
     - power rule
     - sum rule
     - product rule / quotient rule
@@ -252,9 +252,9 @@ geometry: margin=1in
     - general power rule
 
 * 9.3 Derivatives of exponential / logarithm (FDWK 4.4, OSC1 3.9)
-    - special limit: (a^h-1)/h -> ln a
-    - derivative of e^x, a^x
-    - derivative of ln, log_{a}
+    - special limit: $\lim_{h \to 0} \frac{a^h-1}{h} = \ln a$
+    - derivative of $e^x$, $a^x$
+    - derivative of $\ln$, $\log_a$
 
 * 9.4 Derivatives of inverse trig functions (FDWK 4.3, OSC1 3.7)
     - derivation of formulas using implicit differentiation + reference
