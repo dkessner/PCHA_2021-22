@@ -49,7 +49,7 @@ geometry: margin=1in
 |13  |Apr 11|2|__Group Work Unit 9b__; 10.1 Extreme values;|
 |14  |Apr 18|3|__Test Unit 9__; 10.2 Mean Value Theorem; 10.3 Extreme value tests; |
 |15  |Apr 25|2|10.4 Optimization; |
-|16  |May 2 |2|10.5 Linearization / Newton's Method; 10.6 TBD;
+|16  |May 2 |2|10.5 Linearization / Newton's Method; 10.6 TBD; |
 |17  |May 9 |2|__Group Work Unit 10__; Bonus Lesson / Review / Practice;|
 |18  |May 16|3|__Test Unit 10__, TBD|
 |19  |May 23|1|End of PCHA :( |
