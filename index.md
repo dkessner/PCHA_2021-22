@@ -3,8 +3,8 @@ layout: info
 title: Welcome
 ---
 
-
 ![](/assets/images/laurens_25.png)  
+*Image by Lauren '23*
 
 <br/>
 
