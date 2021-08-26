@@ -3,8 +3,6 @@ layout: info
 title: Welcome
 ---
 
-![](/assets/images/bella_pcha.jpg)
-
 Welcome fellow mathematics enthusiasts!  I'm very excited to be your teacher
 for PCHA this year!  This is a fast-moving course, and we will cover a wide
 variety of interesting topics on the way to calculus, the development of which
