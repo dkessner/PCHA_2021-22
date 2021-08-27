@@ -24,7 +24,7 @@ Dr. Kessner
 
 <br/>
 
-And here's a fun quote from an article "Calculus Is Good for You"
+Here's a fun quote from an article "Calculus Is Good for You"
 that appeared in _Scientific American_ in 1871 (150 years ago!).
 
 > It is admitted by all metaphysicians and educators that the calculus brings
