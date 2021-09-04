@@ -43,59 +43,60 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
 ## Unit 1: Trigonometry
 
 * 1.1 Unit Circle 
-    - DWFK 4.2-4.3, SZ 10.2
+    - DWFK 4.2-4.3, SZ 10.2, OSP 5.2-5.3
     - sin/cos from special triangles
     - unit circle with sin/cos values at special angles
 
 * 1.2 Trig graphs 
-    - DWFK 4.4-4.5, SZ 10.5
+    - DWFK 4.4-4.5, SZ 10.5, OSP 6.1-6.2
     - graph sin/cos
     - graph tan/cot/sec/csc
     - graph transformations of the trig functions (scale x/y, shift x/y)
 
 * 1.3 Inverse trig functions 
-    - DWFK 4.7, SZ10.6
+    - DWFK 4.7, SZ 10.6, OSP 6.3
     - calculating inverse trig functions for values corresponding to special
       angles
 
 * 1.4 Trig word problems 
-    - DWFK 4.8, SZ 11.1
-    - circular motion 
-    - projectile motion 
+    - DWFK 4.8, SZ 11.1, OSP 5.4, 7.6
+    - calculating distances with trigonometry 
+    - angle of elevation / depression
+    - modeling with a sinusoid
 
 ## Unit 2: More Trigonometry
 
 * 2.1 Trig identities 
-    - DWFK 5.1-5.2, SZ 10.3
+    - DWFK 5.1-5.2, SZ 10.3, OSP 7.1
     - basic, Pythagorean, cofunction, and odd/even identities
     - prove trigonometric identities from left to right
 
 * 2.2 Sum/Difference formulas 
-    - DWFK 5.3, SZ 10.4
+    - DWFK 5.3, SZ 10.4, OSP 7.2
     - sum/difference formulas 
     - derivation of sum/difference formula for tan from the formulas for
       sin/cos
 
 * 2.3 Multiple angle formulas 
-    - DWFK 5.4, SZ 10.4
+    - DWFK 5.4, SZ 10.4, OSP 7.3
     - multiple angle formulas (derivation from the sum/difference formulas)
     - derive the power-reducing and half-angle formulas from the multiple angle
       formulas
     - use any of the formulas to calculate trig function values
 
 * 2.4 Law of Sines/Cosines 
-    - DWFK 5.5-5.6, SZ 11.2
+    - DWFK 5.5-5.6, SZ 11.2, OSP 8.1-8.2
     - Laws of Sines/Cosines to solve triangles, including any ambiguous cases
 
 ## Unit 3: Trig Applications
 
 * 3.1 Vectors 
-    - DWFK 6.1, SZ 11.8
+    - DWFK 6.1, SZ 11.8, OSP 8.8
     - operations: addition and scalar multiplication
     - component form vs. magnitude and direction
 
 * 3.2 Dot Product 
-    - DWFK 6.2, SZ 11.9
+    - DWFK 6.2, SZ 11.9, OSP 8.8 
     - component definition
     - dot product and magnitude
     - dot product with unit vectors / projection on axes
@@ -104,33 +105,34 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
     - finding the angle between two vectors
 
 * 3.3 Parametric Equations 
-    - DWFK 6.3, SZ 11.10
+    - DWFK 6.3, SZ 11.10, OSP 8.6-8.7
     - parametrizing a line (segment)
-    - parametrizing a circle
+    - parametrizing a circle / circular motion 
+    - projectile motion 
 
 * 3.4 Polar Coordinates 
-    - DWFK 6.4, SZ 11.4
+    - DWFK 6.4, SZ 11.4, OSP 8.3
     - rectangular/polar conversion
     - rectangular/polar equations
 
 * 3.5 Polar Graphs 
-    - DWFK 6.5, SZ 11.5
+    - DWFK 6.5, SZ 11.5, OSP 8.4
     - analysis of graphs: max r value, symmetry
 
 * 3.6 Linear systems, matrices  
-    - DWFK 7.1, 7.3, SZ 8.2
+    - DWFK 7.1, 7.3, SZ 8.2, OSP 9.1-9.2, 9.6
     - solving by substitution, elimination
     - solving by diagonalization of matrices
         
 * 3.7 Matrix algebra, inverses 
-    - DWFK 7.2, SZ 8.3 8.4
+    - DWFK 7.2, SZ 8.3, 8.4, OSP 9.5, 9.7
     - matrix operations: addition, scalar multiplication
     - matrix multiplication and composition
     - matrix inverses
     - solving linear systems with matrix inverses
 
 * 3.8 Determinants, Linear Algebra 
-    - DWFK 7.2, SZ 8.5
+    - DWFK 7.2, SZ 8.5, OSP 9.8
     - determinant as area magnification
     - matrix inverse <-> nonzero determinant
 
@@ -138,7 +140,7 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
 ## Unit 4: Polynomials
 
 * 4.1 Function properties 
-    - DWFK 1.2-1.3, SZ 1.6
+    - DWFK 1.2-1.3, SZ 1.6, OSP 1.1-1.3
     - domain/range
     - increasing/decreasing
     - continuity
@@ -146,12 +148,12 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
     - local/global min/max
 
 * 4.2 Operations, transformations, composition, inverses 
-    - DWFK 1.4-1.6, SZ 1.5, 1.7, 5.1, 5.2
+    - DWFK 1.4-1.6, SZ 1.5, 1.7, 5.1, 5.2, OSP 1.4-1.5
     - function operations
     - function composition and inverses
 
 * 4.3 Polynomials 1 
-    - DWFK 2.1-2.2, SZ 3.1, 3.2
+    - DWFK 2.1-2.2, SZ 3.1, 3.2, OSP 3.2-3.6
     - end behavior
     - factoring and zeros
     - graphing
@@ -159,18 +161,18 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
     - Factor theorem
 
 * 4.4 Polynomials 2, Complex numbers 
-    - DWFK 2.3-2.4, P.6, SZ 3.3, 3.4
+    - DWFK 2.3-2.4, P.6, SZ 3.3, 3.4, OSP 3.5-3.6, 3.1
     - synthetic division
     - potential rational zeros
 
 * 4.5 Complex numbers, Fundamental theorem of Algebra 
-    - DWFK P.6, 2.5, SZ 3.4
+    - DWFK P.6, 2.5, SZ 3.4, OSP 3.6
     - complex numbers: operations, conjugation, magnitude
     - factoring over the real numbers
     - factoring over the complex numbers
         
 * 4.6 Rational functions 
-    - DWFK 2.6, SZ 4.2
+    - DWFK 2.6, SZ 4.2, OSP 3.7
     - graphing rational functions by hand
     - behavior near asymptotes
     - (asymptotic) end behavior
@@ -195,7 +197,6 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
     - graphing
 
 ## Unit 6: Discrete mathematics
-
 
 * 6.1 Combinatorics 
     - DWFK 9.1, OSP 11.5, LDM 1.1, 1.3
