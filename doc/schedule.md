@@ -11,18 +11,18 @@ geometry: margin=1in
 |----|------|-|------|
 |1   |Aug 30|2|1.1 Unit circle, 1.2 Trig graphs; __Group Work 1.1-1.2__|
 |2   |Sep 6 |1|1.3 Inverse trig, 1.4 word problems |
-|3   |Sep 13|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__; |
-|4   |Sep 20|3|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines; __Group Work Unit 2__; |
-|5   |Sep 27|2|Coding Day; PNOC Thurs Oct 1; __Test Unit 2__;|
+|3   |Sep 13|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__ (Wed Sep 15); |
+|4   |Sep 20|3|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines; __Group Work Unit 2__ (Fri Sep 24); |
+|5   |Sep 27|2|Coding Day; PNOC Thurs Oct 1; __Test Unit 2__ (Fri Oct 1);|
 |6   |Oct 4 |2|3.1 Vectors, 3.2 Dot product; 3.3 Parametric equations and applications; |
 |7   |Oct 11|2|3.4 Polar coordinates; 3.5 Polar graphs; |
 |8   |Oct 18|3|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra, solving systems with inverses; 3.8 Linear algebra: transformations and determinants;|
-|9   |Oct 25|2|4.1 Function properties; __Group Work Unit 3__;|
-|10  |Nov 1 |2|__Coding Project due__; 4.2 Function operations, transformations, composition, inverses; __Test Unit 3__;|
+|9   |Oct 25|2|4.1 Function properties; __Group Work Unit 3__ (Pumpkin Day Oct 29);|
+|10  |Nov 1 |2|__Coding Project due__; 4.2 Function operations, transformations, composition, inverses; __Test Unit 3__ (Fri Nov 5);|
 |11  |Nov 8 |2|4.3 Polynomials; 4.4 More polynomials, complex numbers;|
-|12  |Nov 15|2|4.5 Complex numbers / Fundamental Theorem of Algebra; 4.6 Rational functions; __Group Work Unit 4a__; |
+|12  |Nov 15|2|4.5 Complex numbers / Fundamental Theorem of Algebra; 4.6 Rational functions; __Group Work Unit 4a__ (Thu Nov 18); |
 |--  |Nov 22|-|_Thanksgiving Break_|
-|13  |Nov 29|3|__Group Work Unit 4b__; __Test Unit 4__; Coding Day? |
+|13  |Nov 29|3|__Group Work Unit 4b__ (Mon Nov 29); __Test Unit 4__ (Wed Dec 1); Coding Day? |
 |14  |Dec 6 |2|5.1 Parabolas, 5.2 Ellipses; |
 |15  |Dec 13|2|5.3 Hyperbolas; Coding Day |
 
