@@ -16,8 +16,6 @@ Topics:
 
 Reference: [OSP 7.1, 7.2](https://openstax.org/books/precalculus/pages/7-1-solving-trigonometric-equations-with-identities)
 
-<iframe class="video" src="https://www.youtube.com/embed/4CQTQNxkJcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [notes (pdf)](PCHA_2.1-2.2_TrigIdentities.pdf)
 
 ![](0.png)
@@ -28,3 +26,4 @@ Reference: [OSP 7.1, 7.2](https://openstax.org/books/precalculus/pages/7-1-solvi
 ![](5.png)
 ![](6.png)
 
+<iframe class="video" src="https://www.youtube.com/embed/4CQTQNxkJcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
