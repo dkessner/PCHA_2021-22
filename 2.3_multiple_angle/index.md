@@ -19,4 +19,5 @@ Reference: [OSP 7.3](https://openstax.org/books/precalculus/pages/7-3-double-ang
 ![](3.png)
 ![](4.png)
 
-<iframe class="video" src="https://www.youtube.com/embed/https://www.youtube.com/embed/4CQTQNxkJcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/udhkyhmFIBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
