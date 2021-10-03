@@ -14,8 +14,8 @@ geometry: margin=1in
 |3   |Sep 13|2|2.1 Trig identities, 2.2 Sum/Difference identities; __Test Unit 1__ (Wed Sep 15); |
 |4   |Sep 20|3|2.3 Multiple angle identities; 2.4 Law of Sines/Cosines; __Group Work Unit 2__ (Fri Sep 24); |
 |5   |Sep 27|2|Coding Day; PNOC Thurs Oct 1; __Test Unit 2__ (Fri Oct 1);|
-|6   |Oct 4 |2|3.1 Vectors, 3.2 Dot product; 3.3 Parametric equations and applications; |
-|7   |Oct 11|2|3.4 Polar coordinates; 3.5 Polar graphs; |
+|6   |Oct 4 |2|3.1 Vectors; 3.2 Dot product; |
+|7   |Oct 11|2|3.3 Parametric equations and applications, 3.4 Polar coordinates; 3.5 Polar graphs; |
 |8   |Oct 18|3|__Coding Project start__; 3.6 Linear systems and matrices; 3.7 Matrix algebra, solving systems with inverses; 3.8 Linear algebra: transformations and determinants;|
 |9   |Oct 25|2|4.1 Function properties; __Group Work Unit 3__ (Pumpkin Day Oct 29);|
 |10  |Nov 1 |2|__Coding Project due__; 4.2 Function operations, transformations, composition, inverses; __Test Unit 3__ (Fri Nov 5);|
