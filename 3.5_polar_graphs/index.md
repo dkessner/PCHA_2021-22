@@ -13,9 +13,10 @@ Topics:
     - max \|r\| value
     - symmetry (x-axis, y-axis, origin)
 
-
 Reference:
 [OSP 8.4](https://openstax.org/books/precalculus/pages/8-4-polar-coordinates-graphs)  
+
+[Example problem](example)
 
 [notes (pdf)](PCHA_3.5_PolarGraphs.pdf)
 
