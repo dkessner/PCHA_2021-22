@@ -19,6 +19,8 @@ abstract.
 You can work with classmates on your code.  However, your final images should
 be different (see criteria below).
 
+[Python Turtle Graphics documentation](https://docs.python.org/3/library/turtle.html)
+
 
 ## Criteria
 
