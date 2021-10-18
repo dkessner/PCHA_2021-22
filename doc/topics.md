@@ -124,17 +124,17 @@ FDWK: Calculus by Finney, Demana, Waits, Kennedy, 5th Edition
     - solving by substitution, elimination
     - solving by diagonalization of matrices
         
-* 3.7 Matrix algebra, inverses 
-    - DWFK 7.2, SZ 8.3, 8.4, OSP 9.5, 9.7
+* 3.7 Matrix algebra
+    - DWFK 7.2, SZ 8.3, 8.4, OSP 9.5
     - matrix operations: addition, scalar multiplication
     - matrix multiplication and composition
+
+* 3.8 Matrix inverses and determinants
+    - DWFK 7.2, SZ 8.5, OSP 9.7, 9.8
     - matrix inverses
     - solving linear systems with matrix inverses
-
-* 3.8 Determinants, Linear Algebra 
-    - DWFK 7.2, SZ 8.5, OSP 9.8
-    - determinant as area magnification
     - matrix inverse <-> nonzero determinant
+    - linear transformations and the determinant
 
         
 ## Unit 4: Polynomials

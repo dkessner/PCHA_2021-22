@@ -18,4 +18,7 @@ geometry: margin=1in
 | 3.3 Parametric Equations | [OSP 8.6](https://openstax.org/books/precalculus/pages/8-6-parametric-equations) # 7, 9, 39, 41 [OSP 8.7](https://openstax.org/books/precalculus/pages/8-7-parametric-equations-graphs) do Example 5, # 13, 17, 45 (also do with center at (3,4)), 63 (find max height and max distance), 65-69 odd |
 | 3.4 Polar Coordinates | [OSP 8.3](https://openstax.org/books/precalculus/pages/8-3-polar-coordinates) # 7-15 odd, 41-43 odd (find *all* polar coordinates), 45-53 odd |
 | 3.5 Polar Graphs | [OSP 8.3](https://openstax.org/books/precalculus/pages/8-3-polar-coordinates) # 17, 21, 29-39 odd, [OSP 8.4](https://openstax.org/books/precalculus/pages/8-4-polar-coordinates-graphs) # (graph and analyze) 7, 9, 11, 17, 27, 39 |
+| 3.6 Linear Systems | [OSP 9.6](https://openstax.org/books/precalculus/pages/9-6-solving-systems-with-gaussian-elimination) # 19, 23, 43, 47 |
+| 3.7 Matrices | [OSP 9.5](https://openstax.org/books/precalculus/pages/9-5-matrices-and-matrix-operations) # 1-29 odd, 41-45 odd |
+| 3.8 Matrix inverses, determinants | [OSP 9.7](https://openstax.org/books/precalculus/pages/9-7-solving-systems-with-inverses) # 7-17 odd, 27, 29, handout problems, [OSP 9.8](https://openstax.org/books/precalculus/pages/9-8-solving-systems-with-cramers-rule) # 5, 7, 9, 17, 21 |
 
