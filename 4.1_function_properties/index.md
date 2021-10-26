@@ -6,11 +6,15 @@ permalink: /4.1_function_properties/
 
 Topics: 
 
-- domain/range
-- increasing/decreasing
+- domain and range
+- increasing / decreasing
 - continuity
+    - discontinuities: removable, jump, infinite
 - boundedness (above/below)
-- local/global min/max
+- local/global extrema (min/max)
+- odd/even symmetry
+- asymptotes and end behavior 
+    - limit notation
 
 Reference:
 [Stitz-Zeager Precalculus](https://www.stitz-zeager.com/)
