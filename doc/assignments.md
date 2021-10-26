@@ -21,4 +21,4 @@ geometry: margin=1in
 | 3.6 Linear Systems | [OSP 9.6](https://openstax.org/books/precalculus/pages/9-6-solving-systems-with-gaussian-elimination) # 19, 23, 43, 47 |
 | 3.7 Matrices | [OSP 9.5](https://openstax.org/books/precalculus/pages/9-5-matrices-and-matrix-operations) # 1-29 odd, 41-45 odd |
 | 3.8 Matrix inverses, determinants | [OSP 9.7](https://openstax.org/books/precalculus/pages/9-7-solving-systems-with-inverses) # 7-17 odd, 27, 29, [handout problems](../3.8_matrix_inverses/handout), [OSP 9.8](https://openstax.org/books/precalculus/pages/9-8-solving-systems-with-cramers-rule) # 5, 7, 9, 17, 21 |
-| 4.1 Function properties | Exercise handout, SZ1.6 # 42-73 |
+| 4.1 Function properties | [handout problems](../4.1_function_properties/handout), SZ1.6 # 42-73 ([Stitz-Zeager Precalculus](https://www.stitz-zeager.com/))|
