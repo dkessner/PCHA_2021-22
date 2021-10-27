@@ -9,7 +9,7 @@
 
 pdf_targets = $(patsubst %.md,%.pdf,$(wildcard *.md))
 
-targets = pcha_coding_project.pdf
+targets = $(pdf_targets)
 
 all: $(targets)
 	@echo Targets: $(targets)
