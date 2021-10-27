@@ -202,7 +202,6 @@ c. Find the inverse matrix and use it to solve the system.
 
 ---
 pagetitle: none
-math: <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
 geometry: margin=1in
 ---
 
