@@ -24,4 +24,5 @@ geometry: margin=1in
 | Unit 3 Review exercises | [OSP Ch8 Review Exercises](https://openstax.org/books/precalculus/pages/8-review-exercises) # 7-21 odd, 23-27 odd (analyze graphs), 47, 53-63 odd, [OSP Ch9 Review Exercises](https://openstax.org/books/precalculus/pages/9-review-exercises) # 5 (also solve with matrix inverse), 39-49 odd, 57, 61, 65 |
 | 4.1 Function properties | [handout problems](../4.1_function_properties/handout), SZ1.6 # 42-73 ([Stitz-Zeager Precalculus](https://www.stitz-zeager.com/))|
 | 4.2 Function operations | SZ1.5 # 11, 19; SZ1.7 # 19-37, also graph \|f(x)\|, f(\|x\|), f(-\|x\|); SZ5.1 # 13, 15; SZ5.2 # 1-9 odd |
+| 4.3 Polynomials | [OSP 3.4](https://openstax.org/books/precalculus/pages/3-4-graphs-of-polynomial-functions) # 43-61 odd [OSP 3.5](https://openstax.org/books/precalculus/pages/3-5-dividing-polynomials) # 3, 5, 7 [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 7, 9, 15, 17 |
 
