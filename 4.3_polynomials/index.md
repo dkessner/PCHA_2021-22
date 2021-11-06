@@ -7,8 +7,8 @@ permalink: /4.3_polynomials/
 Topics: 
 - polynomials
     - $p(x) = a_n x^n + a_{n-1}x^{n-1} + ... a_1 x + a_0$
-- leading term $a_n x^n$ and end behavior
-- constant term $a_0$: y-intercept
+    - leading term $a_n x^n$, degree, and end behavior
+    - constant term $a_0$: y-intercept
 - polynomial division
     - dividing polynomial $p(x)$ by divisor $d(x)$ gives us a quotient $q(x)$ and
       a remainder $r(x)$ with $\deg(r) < \deg(d)$
