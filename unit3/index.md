@@ -10,6 +10,10 @@ permalink: /unit3/
 Note: the key does not show all the steps (e.g. page 1), but you should
 show all your work.
 
+# Coding project
+
+[Images from 2021-22!](projects)
+
 [Coding Project](coding_project)  
 [Coding Project (pdf)](pcha_coding_project.pdf)
 
