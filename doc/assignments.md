@@ -25,5 +25,6 @@ geometry: margin=1in
 | 4.1 Function properties | [handout problems](../4.1_function_properties/handout), SZ1.6 # 42-73 ([Stitz-Zeager Precalculus](https://www.stitz-zeager.com/))|
 | 4.2 Function operations | SZ1.5 # 11, 19; SZ1.7 # 19-37, also graph \|f(x)\|, f(\|x\|), f(-\|x\|); SZ5.1 # 13, 15; SZ5.2 # 1-9 odd |
 | 4.3 Polynomials | [OSP 3.4](https://openstax.org/books/precalculus/pages/3-4-graphs-of-polynomial-functions) # 43-61 odd [OSP 3.5](https://openstax.org/books/precalculus/pages/3-5-dividing-polynomials) # 3, 5, 7 [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 7, 9, 15, 17 |
-| 4.4 More Polynomials | [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 29, 33, 37, 41 (2 is a root), 43 (-2/3 is a root) | 
+| 4.4 More Polynomials | [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 29, 33, 37 | 
+| 4.5 Fundamental Theorem of Algebra | [OSP 3.6](https://openstax.org/books/precalculus/pages/3-6-zeros-of-polynomial-functions) # 41 (2 is a root), 43 (-2/3 is a root) | 
 
