@@ -38,7 +38,7 @@ $$
     f(x) = 
     \begin{cases}
         x & \text{if } x<0 \\
-        -(x-1)^2 & \text{if } x\geq 0 \\
+        2-(x-1)^2 & \text{if } x\geq 0 \\
     \end{cases}
 $$
 
