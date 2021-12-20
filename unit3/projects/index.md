@@ -5,6 +5,7 @@ permalink: /unit3/projects
 ---
 
 Allie ![allie.png](allie.png)  
+Bea ![bea.png](bea.png)  
 Caroline ![caroline.png](caroline.png)  
 Christina ![christina.png](christina.png)  
 Claire ![claire.png](claire.png)  
