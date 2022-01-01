@@ -32,25 +32,25 @@ geometry: margin=1in
 
 |Week|Date  |#|Topics|
 |----|------|-|----------------------------------------|
-|1   |Jan 3 |2|6.1 Combinatorics; 6.2 Binomial theorem;|
-|2   |Jan 10|3|6.3 Probability; 6.4 More Probability; __Group Work Unit 6a__;|
-|3   |Jan 17|2|6.5 Sequences; 6.6 Series; |
-|4   |Jan 24|2|6.x Bonus lesson, __Group Work Unit 6b__;|
-|5   |Jan 31|2|Python (sequences and series);  __Test Unit 6__; |
+|1   |Jan 3 |1|6.1 Combinatorics|
+|2   |Jan 10|3|6.2 Binomial theorem; 6.3 Probability;  __Group Work Unit 6a__ (Fri Jan 14);|
+|3   |Jan 17|2|6.4 More Probability; 6.5 Sequences;  |
+|4   |Jan 24|2|6.6 Series; __Group Work Unit 6b__ (Fri Jan 28);|
+|5   |Jan 31|2|6.x Bonus lesson, coding (sequences and series);  __Test Unit 6__ (Thu Feb 3); |
 |6   |Feb 7 |2|7.1 Exponential / Logarithm; 7.2 Exponential / Logarithm; |
 |7   |Feb 14|2|__Calculus!__ 8.1 Limits and End Behavior; 8.2 Continuity; |
 |8   |Feb 21|2|8.3 Derivatives and differentiability; 8.4 Rules for differentiation; |
-|9   |Feb 28|3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ |
-|10  |Mar 7 |2|9.1 Chain rule; __Test Unit 8__; |
+|9   |Feb 28|3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
+|10  |Mar 7 |2|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
 |11  |Mar 14|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
-|12  |Mar 21|2|9.4 Inverse Trig Derivatives; 9.x Bonus Lesson, __Group Work Unit 9a__;|
+|12  |Mar 21|2|9.4 Inverse Trig Derivatives; 9.x Bonus Lesson, __Group Work Unit 9a__ (Thu Mar 24);|
 |--  |Mar 28|-|_Spring Break_|
 |--  |Apr 4 |-|_Spring Break_|
-|13  |Apr 11|2|__Group Work Unit 9b__; 10.1 Extreme values;|
-|14  |Apr 18|3|__Test Unit 9__; 10.2 Mean Value Theorem; 10.3 Extreme value tests; |
+|13  |Apr 11|2| __Group Work Unit 9b__ (Mon Apr 11); 10.1 Extreme values;|
+|14  |Apr 18|3|10.2 Mean Value Theorem; __Test Unit 9__ (Wed Apr 20); 10.3 Extreme value tests; |
 |15  |Apr 25|2|10.4 Optimization; |
 |16  |May 2 |2|10.5 Linearization / Newton's Method; 10.6 TBD; |
-|17  |May 9 |2|__Group Work Unit 10__; Bonus Lesson / Review / Practice;|
-|18  |May 16|3|__Test Unit 10__, TBD|
+|17  |May 9 |2|__Group Work Unit 10__ (Mon May 9); Bonus Lesson / Review / Practice;|
+|18  |May 16|3|__Test Unit 10__ (Mon May 16); TBD|
 |19  |May 23|1|End of PCHA :( |
 
