@@ -31,4 +31,5 @@ geometry: margin=1in
 | 5.1 Parabolas | [OSP 10.3](https://openstax.org/books/precalculus/pages/10-3-the-parabola) # 31-41 odd, 45, 47, 51, 53 | 
 | 5.2 Ellipses | [OSP 10.1](https://openstax.org/books/precalculus/pages/10-1-the-ellipse) # 33-43 odd, 47, 49, 53, 55 | 
 | 5.3 Hyperbolas | [OSP 10.2](https://openstax.org/books/precalculus/pages/10-2-the-hyperbola) # 31-39 odd, 45, 47, 51, 53 | 
+| 6.1 Combinatorics |[handout problems](../6.1_combinatorics/hw6.1.pdf); optional extra practice: [OSP 11.5](https://openstax.org/books/precalculus/pages/11-5-counting-principles) # 7-29 odd | 
 
