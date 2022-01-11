@@ -33,4 +33,5 @@ geometry: margin=1in
 | 5.3 Hyperbolas | [OSP 10.2](https://openstax.org/books/precalculus/pages/10-2-the-hyperbola) # 31-39 odd, 45, 47, 51, 53 | 
 | 6.1 Combinatorics |[handout problems](../6.1_combinatorics/hw6.1.pdf); optional extra practice: [OSP 11.5](https://openstax.org/books/precalculus/pages/11-5-counting-principles) # 7-29 odd | 
 | 6.2 Binomial theorem |[OSP 11.6](https://openstax.org/books/precalculus/pages/11-6-binomial-theorem) # 5-9 odd, 13-35 odd | 
+| 6.3 Probability |[OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability) # 7-49 odd | 
 
