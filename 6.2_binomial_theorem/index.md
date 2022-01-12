@@ -11,7 +11,7 @@ Topics:
 Reference:  
 [OSP 11.6](https://openstax.org/books/precalculus/pages/11-6-binomial-theorem)  
 
-[notes (pdf)](PCHA_6.1_Combinatorics.pdf)
+[notes (pdf)](PCHA_6.2_BinomialTheorem.pdf)
 
 ![](0.png)
 ![](1.png)
