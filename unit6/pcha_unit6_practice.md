@@ -70,7 +70,7 @@ pizzas.  What is the probability that it has exactly 10 toppings?
 \newpage
 
 
-__5.__ a. Expand and write in standard form: $(-3x+y)^4$.
+__4.__ a. Expand and write in standard form: $(-3x+y)^4$.
 
 
 \vspace{4in}
