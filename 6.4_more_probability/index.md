@@ -13,5 +13,6 @@ Reference:
 [OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability)  
 
 
-[binomial.ipynb](binomial.ipynb)
+[binomial.ipynb](binomial.ipynb)  
+[binomial.ipynb (view on GitHub)](https://github.com/dkessner/PCHA/blob/main/6.4_more_probability/binomial.ipynb)
 
