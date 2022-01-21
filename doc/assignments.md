@@ -35,4 +35,5 @@ geometry: margin=1in
 | 6.2 Binomial theorem |[OSP 11.6](https://openstax.org/books/precalculus/pages/11-6-binomial-theorem) # 5-9 odd, 13-35 odd | 
 | 6.3 Probability |[OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability) # 7-49 odd | 
 | 6.4 More Probability |[OSP 11.7](https://openstax.org/books/precalculus/pages/11-7-probability) # 18-25 all (twice: once with a fair coin, and once with a coin with P(heads) = .75), 47-59 odd | 
+| 6.5 Sequences |[OSP 11.1](https://openstax.org/books/precalculus/pages/11-1-sequences-and-their-notations) # 7-17 odd, [OSP 11.2](https://openstax.org/books/precalculus/pages/11-2-arithmetic-sequences) # 11-15 odd, 19, 29, 31, 43, 45, [OSP 11.3](https://openstax.org/books/precalculus/pages/11-3-geometric-sequences) # 7, 15, 17, 25, 35 | 
 
