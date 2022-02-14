@@ -40,4 +40,5 @@ geometry: margin=1in
 | Unit 6 Review exercises | [OSP Ch11 Review Exercises](https://openstax.org/books/precalculus/pages/11-review-exercises) # 1-57 odd |
 | 7.1 Exponential / logarithm |[OSC1 1.5](https://openstax.org/books/calculus-volume-1/pages/1-5-exponential-and-logarithmic-functions) # 233-238 all, 239-297 odd, 299 and 307 (do these two twice: with base 2 and base e)| 
 | 8.1 Limits |[OSC1 2.2](https://openstax.org/books/calculus-volume-1/pages/2-2-the-limit-of-a-function) # 47-75 odd; [OSC1 2.3](https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws) # 83-101 odd, 115, 117 | 
+| 8.2 Continuity |[OSC1 2.4](https://openstax.org/books/calculus-volume-1/pages/2-4-continuity) # 131-149 odd, 155 | 
 
