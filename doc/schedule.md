@@ -43,7 +43,7 @@ geometry: margin=1in
 |9   |Feb 28|3|8.5 Rates of change; 8.6 Derivatives of trig functions; __Group Work Unit 8__ (Fri Mar 4) |
 |10  |Mar 7 |2|9.1 Chain rule; __Test Unit 8__ (Fri Mar 11); |
 |11  |Mar 14|2|9.2 Implicit differentiation; 9.3 Exp/log;  |
-|12  |Mar 21|2|9.4 Inverse Trig Derivatives; 9.x Bonus Lesson, __Group Work Unit 9a__ (Thu Mar 24);|
+|12  |Mar 21|2|9.4 Inverse Trig Derivatives; 9.5 Applications, __Group Work Unit 9a__ (Thu Mar 24);|
 |--  |Mar 28|-|_Spring Break_|
 |--  |Apr 4 |-|_Spring Break_|
 |13  |Apr 11|2| __Group Work Unit 9b__ (Mon Apr 11); 10.1 Extreme values;|
