@@ -5,7 +5,6 @@ permalink: /unit9/
 ---
 
 [Unit 9 group (pdf)](pcha_unit9_group.pdf)  
-:qa
 [Unit 9 group key (pdf)](pcha_unit9_group_key.pdf)  
 
 [Unit 9 group 2 (pdf)](pcha_unit9_group2.pdf)  
