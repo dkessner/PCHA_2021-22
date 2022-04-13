@@ -48,9 +48,9 @@ geometry: margin=1in
 |--  |Apr 4 |-|_Spring Break_|
 |13  |Apr 11|2| __Group Work Unit 9b__ (Mon Apr 11); 10.1 Extreme values;|
 |14  |Apr 18|3|10.2 Mean Value Theorem; __Test Unit 9__ (Wed Apr 20); 10.3 Extreme value tests; |
-|15  |Apr 25|2|10.4 Optimization; |
-|16  |May 2 |2|10.5 Linearization / Newton's Method; 10.6 TBD; |
-|17  |May 9 |2|__Group Work Unit 10__ (Mon May 9); Bonus Lesson / Review / Practice;|
-|18  |May 16|3|__Test Unit 10__ (Mon May 16); TBD|
+|15  |Apr 25|2|10.4 Optimization; 10.5 Linearization / Newton's Method|
+|16  |May 2 |2|__Group Work Unit 10__ (Tues May 3); Bonus Lesson / Review / Practice;|
+|17  |May 9 |2|Bonus Lesson / Review / Practice; __Test Unit 10__ (Thurs May 12)|
+|18  |May 16|3|TBD|
 |19  |May 23|1|End of PCHA :( |
 
