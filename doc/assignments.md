@@ -56,5 +56,5 @@ geometry: margin=1in
 | 10.3 Extreme value tests | [OSC1 4.5](https://openstax.org/books/calculus-volume-1/pages/4-5-derivatives-and-the-shape-of-a-graph) # 201, 203, 221, 225-231 odd, 235 |
 | 10.4 Optimization | [OSC1 4.7](https://openstax.org/books/calculus-volume-1/pages/4-7-applied-optimization-problems) # 317, 319, 321, 337, 341 |  
 | 10.5 Linearization | [OSC1 4.2](https://openstax.org/books/calculus-volume-1/pages/4-2-linear-approximations-and-differentials) # 51-67 odd |
-| 10.x Review exercises | [OSC1 Ch4 Review](https://openstax.org/books/calculus-volume-1/pages/4-review-exercises) #525-537 odd, 545 |
+| Unit 10 Review exercises | [OSC1 Ch4 Review](https://openstax.org/books/calculus-volume-1/pages/4-review-exercises) #525-537 odd, 545 |
 
