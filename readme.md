@@ -1,6 +1,6 @@
 # class notes template
 
-[Live site](https://dkessner.github.io/PCHA/)
+[Live site](https://dkessner.github.io/PCHA_2021-22/)
 
 
 ## notes
